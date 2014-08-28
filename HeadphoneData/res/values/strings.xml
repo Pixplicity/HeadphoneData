@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HeadphoneData</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Headphone Data</string>
+    <string name="title_activity_main">Headphone Data</string>
+    
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
+    
+    <string name="play_sample">Play sample</string>
 
 </resources>
