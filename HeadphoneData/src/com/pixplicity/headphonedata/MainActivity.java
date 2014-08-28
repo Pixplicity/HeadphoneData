@@ -19,6 +19,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+/**
+ * Derived from http://www.devlper.com/2010/12/android-audio-recording-part-2/
+ * 
+ * @author Pixplicity
+ */
 public class MainActivity extends Activity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
